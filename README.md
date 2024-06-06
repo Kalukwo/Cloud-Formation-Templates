@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README with additional information about the CloudFormation template:
-
 ---
 
 # CloudFormation Template: VPC with Public and Private Subnets
@@ -50,5 +48,3 @@ This CloudFormation template automates the creation of a Virtual Private Cloud (
 For detailed information about the resources created by this template and their configurations, refer to the CloudFormation template file and AWS documentation.
 
 ---
-
-This README now includes information about the Application Load Balancer and the additional security groups for the various EC2 instances in your architecture.
